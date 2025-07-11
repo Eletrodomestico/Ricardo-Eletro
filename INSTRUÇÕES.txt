@@ -1,0 +1,42 @@
+🚀 RICARDO ELETRO - INSTRUÇÕES DE INSTALAÇÃO
+
+📋 PASSO A PASSO:
+
+1️⃣ EXTRAIR O ZIP
+   - Extraia todos os arquivos em uma pasta
+   - Exemplo: C:\ricardo-eletro
+
+2️⃣ INSTALAR NODE.JS (se não tiver)
+   - Baixe em: https://nodejs.org
+   - Instale a versão LTS
+
+3️⃣ ABRIR TERMINAL
+   - Windows: Prompt de Comando ou PowerShell
+   - Mac/Linux: Terminal
+
+4️⃣ NAVEGAR PARA A PASTA
+   cd ricardo-eletro
+
+5️⃣ INSTALAR DEPENDÊNCIAS
+   npm install
+
+6️⃣ EXECUTAR O PROJETO
+   npm run dev
+
+7️⃣ ABRIR NO NAVEGADOR
+   http://localhost:3000
+
+🔐 PAINEL ADMINISTRATIVO:
+   URL: http://localhost:3000/admin
+   Usuário: admin
+   Senha: ricardo123
+
+⚠️ IMPORTANTE:
+   - Mantenha o terminal aberto
+   - Para parar: Ctrl + C
+   - Para reiniciar: npm run dev
+
+📞 DÚVIDAS?
+   - Verifique se o Node.js está instalado
+   - Certifique-se de estar na pasta correta
+   - Execute os comandos na ordem
